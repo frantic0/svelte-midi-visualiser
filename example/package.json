@@ -1,5 +1,5 @@
 {
-  "name": "~TODO~",
+  "name": "svelte-midi-visualiser-example",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
@@ -21,6 +21,8 @@
   "dependencies": {
     "@fontsource/fira-mono": "^4.2.2",
     "@lukeed/uuid": "^2.0.0",
-    "cookie": "^0.4.1"
+    "cookie": "^0.4.1",
+    "timidity": "^1.3.0",
+    "webmidi": "^2.5.2"
   }
 }
