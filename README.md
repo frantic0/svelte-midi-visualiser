@@ -1,1 +1,1 @@
-# svelte-midi-visualizer
+# svelte-midi-visualiser
